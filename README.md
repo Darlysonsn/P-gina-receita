@@ -9,14 +9,14 @@ CSS – Estilização da interface
 
 💡 Conceitos Aplicados:
 
-Seletores CSS
+. Seletores CSS
 
-Box model
+. Box model
 
-Tipografia e estilização de textos
+. Tipografia e estilização de textos
 
-Uso estratégico de cores e imagens de fundo
+. Uso estratégico de cores e imagens de fundo
 
-Interface amigável e visualmente agradável
+. Interface amigável e visualmente agradável
 
 Essa página demonstra habilidades fundamentais em desenvolvimento front-end, mostrando como os conceitos teóricos foram colocados em prática para criar uma experiência de usuário eficiente e atrativa.
