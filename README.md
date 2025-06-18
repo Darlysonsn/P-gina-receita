@@ -1,4 +1,13 @@
-Este projeto é uma página de receita desenvolvida durante o curso Fullstack da Rocketseat. 
+📝 Descrição do Projeto
+Este é um projeto desenvolvido durante o curso Fullstack da Rocketseat , consistindo em uma página de receita com foco em organização e clareza na apresentação das informações .
 
-🛠 Tecnologias utilizadas: HTML, CSS, JavaScript
-💡Página foi construída com foco na organização e apresentação clara das informações. Foram aplicados conceitos como seletores, box model, tipografia, estilização de textos, uso de cores e imagens de fundo, resultando em uma interface agradável.
+🛠 Tecnologias Utilizadas:
+HTML – Estruturação do conteúdo
+CSS – Estilização da interface
+💡 Conceitos Aplicados:
+Seletores CSS
+Box model
+Tipografia e estilização de textos
+Uso estratégico de cores e imagens de fundo
+Interface amigável e visualmente agradável
+Essa página demonstra habilidades fundamentais em desenvolvimento front-end, mostrando como os conceitos teóricos foram colocados em prática para criar uma experiência de usuário eficiente e atrativa.
